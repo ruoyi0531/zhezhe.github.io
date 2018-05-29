@@ -92,7 +92,7 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/ruoyi0531/ruoyi0531.github.io.git
+  repository: https://github.com/ruoyi0531/mybak.git
   branch: master
 
 #deploy:
