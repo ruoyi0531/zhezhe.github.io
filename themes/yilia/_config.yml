@@ -8,7 +8,7 @@ menu:
 subnav:
   github: "http://ruoyi0531.github.io/"
   weibo: "https://weibo.com/xiaoyi829"
-  #rss: /atom.xml
+  percona: "www.percona.com"
   
   #psn: "#"
   #zhihu: "#"
@@ -22,7 +22,7 @@ subnav:
   #twitter: "#"
   #linkedin: "#"
 
-#rss: /atom.xml
+rss: "www.percona.com"
 
 # 是否需要修改 root 路径
 # 如果您的网站存放在子目录中，例如 http://yoursite.com/blog，
